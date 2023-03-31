@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/rubens729/PipelineTest/_apis/build/status%2FCodigoRubens.pipelines-java?branchName=main)](https://dev.azure.com/rubens729/PipelineTest/_build/latest?definitionId=3&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
